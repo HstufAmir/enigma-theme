@@ -1,16 +1,47 @@
-# enigma README
+# Enigma Minimal Dark Theme
+## Why Enigma?
+Enigma is designed to avoid overly saturated colors, harsh contrasts, and visual clutter.  
+The goal is to provide a calm and focused environment suitable for long coding sessions.
 
-## Working with Markdown
+## Preview
+Screenshots showing the theme in action:
+![Preview C](images/c.png)
+![Preview C++](images/cpp.png)
+![Preview C#](images/csharp.png)
+![Preview JS](images/js.png)
+![Preview HTML](images/html.png)
+![Preview CSS](images/css.png)
+![Preview SQL](images/sql.png)
+![Preview JSON](images/json.png)
+![Preview LUA](images/lua.png)
+![Preview CFG](images/cfg.png)
+![Preview XML](images/xml.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Supported Languages
+Enigma provides consistent syntax highlighting for a wide range of languages, including:
+C, C++, C#, JavaScript, HTML, CSS, SQL, JSON, Lua, CFG, XML, and many others.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
+* Minimal and elegant dark color palette
+* Smooth and readable syntax highlighting
+* Optimized contrast for long coding sessions
+* Consistent UI elements and editor colors
+* Designed for clarity without unnecessary visual noise
 
-## For more information
+## Installation
+* Open the Extensions view in VS Code
+* Search for Enigma Minimal Dark Theme
+* Install the theme
+* Activate it and Enjoy Coding
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## For more information and Feedback
+If you encounter any issues or want to suggest improvements, feel free to open an issue or submit a pull request in the repository.
+
+* [Repository](https://github.com/HstufAmir/enigma-theme)
+* [Marketplace](https://marketplace.visualstudio.com/items?itemName=HstufAmir.enigma-minimal-dark-theme)
+* [Discord](https://discord.gg/p3Wfp6KGbj)
+
+## License
+This theme is released under the MIT License.
 
 **Enjoy!**
