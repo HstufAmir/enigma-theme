@@ -7,7 +7,7 @@
     "activityBarBadge.background": "#0011ff",
     "sideBarTitle.foreground": "#eeeeee",
 
-    "editorCursor.foreground": "#fff671",
+    "editorCursor.foreground": "#e2dc83",
     "editorError.foreground": "#ff7676",
     "editorWarning.foreground": "#aa671a",
     "editorLineNumber.foreground": "#868686",
@@ -27,7 +27,7 @@
         "source.powershell variable.other.member",
         "entity.name.operator.custom-literal"
       ],
-      "settings": { "foreground": "#fff671" }
+      "settings": { "foreground": "#e2dc83" }
     },
     {
       "name": "Types declaration and references",
@@ -168,11 +168,11 @@
     },
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
-      "settings": { "foreground": "#fff671" }
+      "settings": { "foreground": "#e2dc83" }
     },
     {
       "scope": "keyword.operator.quantifier.regexp",
-      "settings": { "foreground": "#fff671" }
+      "settings": { "foreground": "#e2dc83" }
     },
     {
       "scope": ["constant.character", "constant.other.option"],
@@ -182,7 +182,7 @@
       "scope": "constant.character.escape",
       "settings": { "foreground": "#ffb45e" }
     },
-    { "scope": "entity.name.label", "settings": { "foreground": "#fff671" } }
+    { "scope": "entity.name.label", "settings": { "foreground": "#e2dc83" } }
   ],
   "semanticTokenColors": {
     "newOperator": "#C586C0",
