@@ -1,0 +1,21 @@
+{
+  "name": "enigma",
+  "displayName": "Enigma",
+  "description": "Enigma theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Enigma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Enigma-color-theme.json"
+      }
+    ]
+  }
+}
