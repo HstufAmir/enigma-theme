@@ -94,7 +94,7 @@
       "settings": { "foreground": "#c371d3" }
     },
     {
-      "name": "Variable and parameter name",
+      "name": "Variable name",
       "scope": [
         "variable",
         "meta.definition.variable.name",
@@ -103,6 +103,23 @@
         "constant.other.placeholder"
       ],
       "settings": { "foreground": "#7ad5ff" }
+    },
+    {
+      "name": "Parameter name",
+      "scope": [
+				"variable.parameter",
+				"variable.language",
+				"meta.block variable.other",
+				"support.other.variable",
+				"string.other.link",
+				"constant.language",
+				"support.constant",
+				"constant.character",
+				"constant.escape",
+				"keyword.other.unit",
+				"keyword.other"
+      ],
+      "settings": { "foreground": "#d87070" }
     },
     {
       "name": "Constants and enums",

@@ -2,6 +2,11 @@
 
 All notable changes to the "enigma" extension will be documented in this file.
 
+## [0.1.5]
+
+- colores updated
+- change log updated
+
 ## [0.1.3]
 
 - Package updated
