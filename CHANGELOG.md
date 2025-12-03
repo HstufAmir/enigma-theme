@@ -2,11 +2,16 @@
 
 All notable changes to the "enigma" extension will be documented in this file.
 
-## [0.1.1.0]
+## [0.1.3]
+
+- Package updated
+- Icon added
+
+## [0.1.1]
 
 - Readme Updated
 - Screen shots added
 
-## [0.1.0.0]
+## [0.1.0]
 
 - Initial release
