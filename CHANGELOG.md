@@ -2,6 +2,21 @@
 
 All notable changes to the "enigma" extension will be documented in this file.
 
+##[0.12.2]
+- title bar updated
+- activity bar updated
+- tab updated
+- side bar updated
+- status bar updated
+- terminal updated
+- ports updated
+- problems updated
+- outputview updated
+- debug console updated
+- readme updated
+- some bug fixes
+- change log updated
+
 ## [0.1.7]
 
 - colores updated

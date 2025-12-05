@@ -28,6 +28,9 @@ C, C++, C#, JavaScript, HTML, CSS, SQL, JSON, Lua, CFG, XML, and many others.
 * Consistent UI elements and editor colors
 * Designed for clarity without unnecessary visual noise
 
+## Support the Project
+<a href="https://reymit.ir/hstuf.amir" target="_blank"><img src="images/donate.png" alt="Donate Now" style="height: 56px !important;width: 200px !important;" ></a>
+
 ## Installation
 * Open the Extensions view in VS Code
 * Search for Enigma Minimal Dark Theme

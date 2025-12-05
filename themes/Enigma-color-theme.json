@@ -2,22 +2,98 @@
   "name": "Enigma",
   "include": "./dark_vs.json",
   "colors": {
+    // Editor
     "editor.background": "#202020",
     "editor.foreground": "#eeeeee",
-    "activityBarBadge.background": "#0011ff",
-    "sideBarTitle.foreground": "#eeeeee",
 
     "editorCursor.foreground": "#e2dc83",
     "editorError.foreground": "#ff7676",
     "editorWarning.foreground": "#aa671a",
     "editorLineNumber.foreground": "#868686",
-    "editorGroupHeader.tabsBackground": "#252525",
+    "editorGroupHeader.tabsBackground": "#303030",
+    "editorWhitespace.foreground": "#868686",
+    "editorCodeLens.foreground": "#868686",
 
+    // Title Bar
     "titleBar.activeBackground": "#202020",
     "titleBar.activeForeground": "#eeeeee",
-    "titleBar.inactiveForeground": "#868686"
+
+    "titleBar.inactiveBackground": "#303030",
+    "titleBar.inactiveForeground": "#868686",
+
+    // Activity Bar
+    "activityBar.background": "#303030",
+    "activityBar.foreground": "#eeeeee",
+
+    "activityBar.activeBorder": "#2798cc",
+    "activityBar.activeBackground": "#202020",
+
+    "activityBar.inactiveForeground": "#868686",
+
+    "activityBarBadge.background": "#2798cc",
+    "activityBarBadge.foreground": "#eeeeee",
+
+    // Tab
+    "tab.activeBackground": "#202020",
+    "tab.activeForeground": "#eeeeee",
+    "tab.activeBorderTop": "#2798cc",
+
+    "tab.inactiveBackground": "#252525",
+    "tab.inactiveForeground": "#868686",
+
+    "tab.unfocusedActiveBackground": "#252525",
+    "tab.unfocusedActiveForeground": "#868686",
+    "tab.unfocusedActiveBorderTop": "#eeeeee",
+
+    "tab.unfocusedInactiveBackground": "#303030",
+    "tab.unfocusedInactiveForeground": "#868686",
+
+    // Side Bar
+    "sideBar.background": "#252525",
+    "sideBar.foreground": "#868686",
+
+    "sideBarTitle.background": "#202020",
+    "sideBarTitle.foreground": "#eeeeee",
+    "sideBarTitle.border": "#868686",
+
+    "sideBarSectionHeader.background": "#303030",
+    "sideBarSectionHeader.foreground": "#eeeeee",
+
+    // Status Bar
+    "statusBar.background": "#303030",
+    "statusBar.foreground": "#eeeeee",
+
+    "statusBarItem.activeBackground": "#303030",
+    "statusBarItem.errorBackground": "#d87070",
+    "statusBarItem.errorForeground": "#202020",
+    "statusBarItem.warningBackground": "#ffb45e",
+    "statusBarItem.warningForeground": "#202020",
+
+    "notificationsInfoIcon.foreground": "#2798cc",
+    "notificationsWarningIcon.foreground": "#e2dc83",
+    "notificationsErrorIcon.foreground": "#ff7676",
+
+    // Terminal
+    "terminal.background": "#252525",
+
+    // Ports
+    "ports.iconRunningProcessForeground": "#252525",
+
+    // Problems
+    "problemsInfoIcon.foreground": "#2798cc",
+    "problemsWarningIcon.foreground": "#e2dc83",
+    "problemsErrorIcon.foreground": "#ff7676",
+
+    // Output View
+    "outputView.background": "#252525",
+
+    // Debug Console
+    // "debugConsole.infoForeground":"#0400ff",
+    // "debugConsole.sourceForeground":"#ff0000",
+    // "debugConsole.warningForeground":"#ff8800",
+    // "debugConsole.errorForeground":"#09ff00",
   },
- "tokenColors": [
+  "tokenColors": [
     {
       "name": "Function declarations",
       "scope": [
@@ -107,17 +183,17 @@
     {
       "name": "Parameter name",
       "scope": [
-				"variable.parameter",
-				"variable.language",
-				"meta.block variable.other",
-				"support.other.variable",
-				"string.other.link",
-				"constant.language",
-				"support.constant",
-				"constant.character",
-				"constant.escape",
-				"keyword.other.unit",
-				"keyword.other"
+        "variable.parameter",
+        "variable.language",
+        "meta.block variable.other",
+        "support.other.variable",
+        "string.other.link",
+        "constant.language",
+        "support.constant",
+        "constant.character",
+        "constant.escape",
+        "keyword.other.unit",
+        "keyword.other"
       ],
       "settings": { "foreground": "#d87070" }
     },
